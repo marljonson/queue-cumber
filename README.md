@@ -1,2 +1,3 @@
 # queue-cumber
-ASP.NET/Azure healthcare workflow app for synthetic FHIR ingestion, care gap queues, RBAC, audit logs, and outreach tasks.
+ASP.NET Core, C#, React, Azure SQL, FHIR, Azure DevOps
+Healthcare care-gap queue and outreach workflow
